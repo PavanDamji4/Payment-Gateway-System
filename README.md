@@ -68,7 +68,6 @@ This is a certified microproject submitted as a part of the curriculum for **Jav
 
 ## 📸 Output Screenshots
 
-> Save these screenshots inside an `images/` folder in your GitHub repo and update the filenames accordingly.
 
 1. **Payment Successful**  
    ![Payment Successful](Images/PaymentSuccessfull.png)
@@ -91,9 +90,9 @@ This is a certified microproject submitted as a part of the curriculum for **Jav
 ---
 ## 🧑‍🤝‍🧑 Team Members
 
-- 👨‍🎓 Pavan Vishnu Damji (2513)
-- 👨‍🎓 Venkatesh Sudhir Soma (2508)
-- 👨‍🎓 Prajwal Yallappa Sanade (2509)
+- 👨‍🎓 Pavan Vishnu Damji 
+- 👨‍🎓 Venkatesh Sudhir Soma 
+- 👨‍🎓 Prajwal Yallappa Sanade 
 
 ---
 ## 🏫 Submitted To
