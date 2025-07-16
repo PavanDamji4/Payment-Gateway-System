@@ -33,5 +33,3 @@ Thumbs.db
 *.bak
 *.swp
 
-# Optional: ignore generated screenshots folder (if needed)
-images/
