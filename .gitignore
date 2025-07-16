@@ -1,0 +1,37 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore IDE-specific files and folders
+/.idea/
+/*.iml
+*.log
+
+# Eclipse-specific
+.project
+.classpath
+.settings/
+
+# VSCode
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Ignore build folders
+/out/
+/build/
+/target/
+
+# Ignore JAR or compiled output
+*.jar
+
+# Ignore any temp files
+*.tmp
+*.bak
+*.swp
+
+# Optional: ignore generated screenshots folder (if needed)
+images/
