@@ -71,22 +71,22 @@ This is a certified microproject submitted as a part of the curriculum for **Jav
 > Save these screenshots inside an `images/` folder in your GitHub repo and update the filenames accordingly.
 
 1. **Payment Successful**  
-   ![Payment Successful](images/PaymentSuccessfull.png)
+   ![Payment Successful](Images/PaymentSuccessfull.png)
 
 2. **Current Balance**  
-   ![Current Balance](images/CurrentBalance.png)
+   ![Current Balance](Images/CurrentBalance.png)
 
 3. **Invalid OTP**  
-   ![Invalid OTP](images/InvalidCardNumber.png)
+   ![Invalid OTP](Images/InvalidCardNumber.png)
 
 4. **Insufficient Funds!**  
-   ![Insufficient Funds](images/InsufficientFunds.png)
+   ![Insufficient Funds](Images/InsufficientFunds.png)
 
 5. **Invalid Card Number**  
-   ![Invalid Card](images/InvalidOTP.png)
+   ![Invalid Card](Images/InvalidOTP.png)
 
 6. **Use of Clear Button**  
-   ![Clear Button](images/ClearButton.png)
+   ![Clear Button](Images/ClearButton.png)
 
 ---
 ## 🧑‍🤝‍🧑 Team Members
